@@ -1,0 +1,80 @@
+2. 앱 개발 방법
+
+네이티브 앱
+
+장점: 플랫폼 최적화, 성능 우수
+
+단점: 언어·기술 다양, 비용·시간↑
+
+크로스 플랫폼 (React Native, Flutter 등)
+
+장점: 하나의 코드로 여러 플랫폼
+
+단점: 일부 성능 및 기능 제약
+
+하이브리드 웹앱
+
+장점: 웹 기술 활용
+
+단점: 성능·UI 제약
+
+3. 플러터(Flutter)
+
+등장 배경: 기존 크로스플랫폼 성능·제약 문제 해결 (2018년 출시)
+
+특징:
+
+Skia 엔진, Dart 코드 → C/C++ 직접 컴파일
+
+빠른 핫 리로드(1초 미만), 네이티브급 성능
+
+구글 지원, 풍부한 위젯과 디버깅 기능
+
+일관된 디자인 보장
+
+장점:
+
+하나의 코드로 iOS/Android/Web/데스크톱 개발
+
+완성도 높은 위젯과 일관된 UI
+
+구글 및 커뮤니티 지원
+
+단점:
+
+구글 서비스 종료 리스크
+
+잦은 업데이트와 호환성 문제
+
+코드 푸시 미지원(Shorebird로 일부 해결)
+
+Dart 학습 필요, 복잡한 위젯 트리 구조
+
+취업 기회가 상대적으로 적음(점차 개선)
+
+도입 기업:
+구글, BMW, Nubank, 밀리의 서재, 이베이, 토요타, 알리바바, 틱톡 등
+
+4. 개발 환경 설정
+
+Git 설치 – Flutter 버전 관리 및 협업 필수
+
+Flutter SDK 설치 – macOS, Windows별 환경 변수 설정
+
+Android Studio 설치 – Android SDK 제공
+
+VSCode 설치 및 확장
+
+Flutter / Dart Code
+
+Awesome Flutter Snippets, Flutter Tree, Error Lens, Material Icon Theme
+
+환경 점검 – flutter doctor
+
+5. 학습 방식 & 과제
+
+TIL (Today I Learned): 매일 배운 내용 GitHub에 기록
+
+AI 도구 활용: Microsoft Copilot 추천
+
+GitHub 활용: Git 기반 버전 관리 → GitHub에서 협업
